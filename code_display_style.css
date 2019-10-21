@@ -1,0 +1,66 @@
+#leftSide {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-color: #cc5500;
+}
+
+#rightSide {
+    float: right;
+    width: 50%;
+    height: 100%;
+    background-color: #cc5500;
+}
+
+.header{
+    background-color: #303030;
+    font-family: Courier, monospace;
+    font-size: 1.5em;
+    color: #F5F5F5;
+    text-decoration: underline;
+    text-align: center;
+    border: 5px solid #bab6b2;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+.numbox{
+    float: left;
+    width: 4.25%;
+    background-color: #303030;
+    margin-top: 1.5%;
+    margin-left: 1.5%;
+    margin-bottom: 1%;
+    border: 5px solid #bab6b2;
+    border-right: 1px solid #bab6b2;
+    border-radius: 5px;
+}
+
+.numbox ol li {
+    background-color: #303030;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.25em;
+    font-weight: bold;
+    color: #F5F5F5;
+    margin-left: 9px;
+    margin-top: 3px;
+}
+
+.textbox {
+    float: left;
+    border: 5px solid #bab6b2;
+    border-left: None;
+    border-radius: 5px;
+    margin-top: 1.5%;
+}
+
+.textbox textarea {
+    background-color: #303030;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.125em;
+    font-weight: bold;
+    color: #F5F5F5;
+    line-height: 26px;
+    padding-top: 13px;
+    padding-left: 3px;
+}
