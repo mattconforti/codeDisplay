@@ -2,20 +2,20 @@
     float: left;
     width: 50%;
     height: 100%;
-    background-color: #cc5500;
+    background-color: #9ff5bd;
 }
 
 #rightSide {
     float: right;
     width: 50%;
     height: 100%;
-    background-color: #cc5500;
+    background-color: #9ff5bd;
 }
 
 .header{
     background-color: #303030;
     font-family: Courier, monospace;
-    font-size: 1.5em;
+    font-size: 1.35em;
     color: #F5F5F5;
     text-decoration: underline;
     text-align: center;
@@ -27,40 +27,40 @@
 .numbox{
     float: left;
     width: 4.25%;
-    background-color: #303030;
-    margin-top: 1.5%;
+    background-color: #c2c5cc;
+    margin-top: .35%;
     margin-left: 1.5%;
     margin-bottom: 1%;
-    border: 5px solid #bab6b2;
-    border-right: 1px solid #bab6b2;
+    border: 5px solid black;
+    border-right: 1px solid black;
     border-radius: 5px;
 }
 
 .numbox ol li {
-    background-color: #303030;
+    background-color: #c2c5cc;
     font-family: "Courier New", Courier, monospace;
     font-size: 1.25em;
     font-weight: bold;
-    color: #F5F5F5;
+    color: black;
     margin-left: 9px;
-    margin-top: 3px;
+    margin-top: 2px;
 }
 
 .textbox {
     float: left;
-    border: 5px solid #bab6b2;
+    border: 5px solid black;
     border-left: None;
     border-radius: 5px;
-    margin-top: 1.5%;
+    margin-top: .35%;
 }
 
 .textbox textarea {
-    background-color: #303030;
+    background-color: #c2c5cc;
     font-family: "Courier New", Courier, monospace;
     font-size: 1.125em;
     font-weight: bold;
-    color: #F5F5F5;
-    line-height: 26px;
+    color: black;
+    line-height: 25px;
     padding-top: 13px;
     padding-left: 3px;
 }
