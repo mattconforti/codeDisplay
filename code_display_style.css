@@ -2,14 +2,20 @@
     float: left;
     width: 50%;
     height: 100%;
-    background-color: #9ff5bd;
+    background-color: #ff2626;
+    /*
+    Python - background-color: #3f5eba;
+    HTML - background-color: #ff2626;
+    CSS - background-color: #65187a;
+    JS - background-color: #fc0;
+    */
 }
 
 #rightSide {
     float: right;
     width: 50%;
     height: 100%;
-    background-color: #9ff5bd;
+    background-color: #3f5eba;
 }
 
 .header{
