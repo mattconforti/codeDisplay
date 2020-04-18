@@ -2,7 +2,7 @@
     float: left;
     width: 50%;
     height: 100%;
-    background-color: #ff2626;
+    background-color: #fc0;
     /*
     Python - background-color: #3f5eba;
     HTML - background-color: #ff2626;
@@ -15,17 +15,17 @@
     float: right;
     width: 50%;
     height: 100%;
-    background-color: #ff2626;
+    background-color: #fc0;
 }
 
 .header{
     background-color: #303030;
     font-family: Courier, monospace;
     font-size: 1.35em;
-    color: #F5F5F5;
+    color: #e8eef1;
     text-decoration: underline;
     text-align: center;
-    border: 5px solid #bab6b2;
+    border: 5px solid black;
     border-radius: 5px;
     padding: 1%;
 }
@@ -33,7 +33,9 @@
 .numbox{
     float: left;
     width: 4.25%;
-    background-color: #c2c5cc;
+    background-color: #303030;
+    /* #303030; - dark mode */
+    /* #c2c5cc; - light mode */
     margin-top: .35%;
     margin-left: 1.5%;
     margin-bottom: 1%;
@@ -43,11 +45,13 @@
 }
 
 .numbox ol li {
-    background-color: #c2c5cc;
+    background-color: #303030;
+    /* #303030; - dark mode */
+    /* #c2c5cc; - light mode */
     font-family: "Courier New", Courier, monospace;
     font-size: 1.25em;
     font-weight: bold;
-    color: black;
+    color: #e8eef1;
     margin-left: 9px;
     margin-top: 2px;
 }
@@ -61,11 +65,13 @@
 }
 
 .textbox textarea {
-    background-color: #c2c5cc;
+    background-color: #303030;
+    /* #303030; - dark mode */
+    /* #c2c5cc; - light mode */
     font-family: "Courier New", Courier, monospace;
     font-size: 1.125em;
     font-weight: bold;
-    color: black;
+    color: #e8eef1;
     line-height: 25px;
     padding-top: 13px;
     padding-left: 3px;
